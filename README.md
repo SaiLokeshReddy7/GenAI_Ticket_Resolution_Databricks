@@ -2,8 +2,10 @@
 
 # Business Use Case: ITSM ServiceNow Ticket Resolution Automation with RAG Model
 
-**Use Case Objective**:  
+### Use Case Objective: 
+
 This project aims to streamline the ticket resolution process in ServiceNow by deploying a Retrieval-Augmented Generation (RAG) model. The RAG model leverages the existing knowledge base in ServiceNow and Large Language Models (LLMs) hosted on Databricks to provide automated, intelligent responses to new tickets, reducing manual search time and enhancing efficiency.
+
 ---
 
 ### 1. Industry and Topic of the Use Case
