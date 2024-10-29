@@ -27,7 +27,7 @@ The solution uses a **Retrieval-Augmented Generation (RAG) model** that integrat
       - The custom action in ServiceNow Flow Designer sends new ticket details to the Databricks LLM endpoint.
       - The LLM retrieves relevant KB articles and generates a response.
       - The response is returned to ServiceNow and added to the ticket’s custom field.
-   - **Diagram Explanation**:![GenAI Usecase diagram](GenAI Usecase diagram.drawio.png)
+   - **Diagram Explanation**:
   
 
 ### 5. Benefits of the Solution
